@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">SuperStore</string>
+
+    <string name="empty_view_title_text">No product has been added</string>
+
+    <string name="empty_view_subtitle_text">Get started by adding an product</string>
+
+    <string name="editor_activity_title_new">Add a Product</string>
+
+    <string name="editor_activity_title_edit">Edit the Product</string>
+
+    <string name="quantity">Quantity</string>
+
+    <string name="hint_quantity">1</string>
+
+    <string name="category">Category</string>
+
+    <string name="item">Item</string>
+
+    <string name="hint_item_name">Name</string>
+
+    <string name="editor_insert_successful">Equipment saved</string>
+
+    <string name="editor_insert_failed">Error with saving products</string>
+
+    <string name="editor_update_failed">No product was updated</string>
+
+    <string name="editor_update_successful">Product updated</string>
+
+    <string name="editor_delete_successful">Product deleted</string>
+
+    <string name="editor_delete_failed">Error with deleting</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="delete_dialog_msg">Delete this pet?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+</resources>
